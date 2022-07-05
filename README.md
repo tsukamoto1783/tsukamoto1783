@@ -1,7 +1,19 @@
+## :large_blue_diamond: Profile
+バッジ？導入  
+簡単なプロフィール  
+
+## :large_blue_diamond: Features
+
+
+## :large_blue_diamond: Release  
+
+
+## :large_blue_diamond: Status  
+
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matttake&layout=compact&theme=buefy=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=matttake&show_icons=true&theme=buefy" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" />
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matttake&layout=compact&theme=buefy=true&theme=onedark" />
+  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=matttake&show_icons=true&theme=buefy" />
+  <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" />
 </p>
 
 <!--
