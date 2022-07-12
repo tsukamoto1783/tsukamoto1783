@@ -2,11 +2,11 @@
 <p align="left"> 
   <a href="https://twitter.com/tsukatsuka1783"><img src="https://img.shields.io/badge/-Twitter-white.svg?logo=twitter&logoColor=1DA1F2&style=flat"></a>  
   <a href="https://zenn.dev/tsukatsuka1783"><img src="https://img.shields.io/badge/-Zenn-9cf.svg?logo=zenn&logoColor=00ffff&style=flat&url=https://simpleicons.org/?q=zenn"></a>
-  <a href=""><img src="https://img.shields.io/badge/-Wantedly-8a2be2.svg?logo=wearos&logoColor=00bfff&style=flat"></a>  
+  <img src="https://img.shields.io/badge/-Wantedly-8a2be2.svg?logo=wearos&logoColor=00bfff&style=flat">  
 </p>
 
 
-### Main Skils
+### Main 
 <p align="left"> 
   <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&logoColor=white&style=flat">  
   <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipse&logoColor=white&style=flat"></a>  
@@ -19,7 +19,7 @@
   <a href=""><img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&logoColor=00bfff&style=flat"></a>
 </p>  
 
-### Sub Skils
+### Sub 
 <p align="left"> 
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&logoColor=119EFF&style=flat"></a>
   <a href="https://docs.pytest.org/en/7.1.x/contents.html"><img src="https://img.shields.io/badge/-Pytest-0A9EDC.svg?logo=pytest&logoColor=adff2f&style=flat"></a>
@@ -28,7 +28,10 @@
 </p>  
 
 ## :small_blue_diamond:: Release  
-
+|joint development|personal development|
+|---|---|
+|<img alt="tumiagetter_feature_graphic" height="180px" src=https://user-images.githubusercontent.com/61080605/178375031-2ba2237c-832a-4233-9fac-b1217ad54c0a.png>|<img alt="tumiagetter_feature_graphic" height="180px" width="250" src=https://user-images.githubusercontent.com/61080605/178475764-4c6180c9-e596-4b23-9b6f-7411409aeb65.png>|
+|<a href="https://apps.apple.com/jp/app/%E3%81%A4%E3%81%BF%E3%81%82%E3%81%92%E3%81%A3%E3%81%9F%E3%83%BC/id1626830264"><img src="https://img.shields.io/badge/-App Store-white.svg?logo=appstore&logoColor=119EFF&style=flat"></a>&emsp; <a href="https://play.google.com/store/apps/details?id=com.zerokaraapp.tumiagetter"><img src="https://img.shields.io/badge/-Google Play-white.svg?logo=googleplay&logoColor=119EFF&style=flat"></a>|<a href="https://apps.apple.com/us/app/%E7%BF%92%E6%85%A3%E5%8C%96%E8%A8%98%E9%8C%B2/id1624851041"><img src="https://img.shields.io/badge/-App Store-white.svg?logo=appstore&logoColor=119EFF&style=flat"></a>&emsp; <a href="https://play.google.com/store/apps/details?id=com.Yuto.habitual_records"><img src="https://img.shields.io/badge/-Google Play-white.svg?logo=googleplay&logoColor=119EFF&style=flat"></a>|
 
 ## :small_blue_diamond:: Status  
 
