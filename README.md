@@ -43,5 +43,6 @@
 ## :small_blue_diamond:: Pinned  
 
 <p align="left"> 
-  <img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" />
+  <a href="https://github.com/matttake/Habitual_Records"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" /></a>
+  <a href="https://github.com/matttake/line_liff_sample"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=line_liff_sample" /></a>
 </p>
