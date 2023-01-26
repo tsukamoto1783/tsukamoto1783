@@ -36,12 +36,12 @@
 ## :small_blue_diamond:: Status  
 
 <p align="left"> 
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matttake&layout=compact&theme=buefy=true&theme=onedark"/>
-  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=matttake&show_icons=true&theme=buefy"/>
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/top-langs/?username=matttake&layout=compact&theme=buefy=true&theme=onedark"/>
+  <img alt="github stats" height="140px" src="https://github-readme-stats-gamma-three-69.vercel.app/api?username=matttake&show_icons=true&theme=buefy"/>
 </p>
 
 ## :small_blue_diamond:: Pinned  
 
 <p align="left"> 
-  <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" />
+  <img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" />
 </p>
