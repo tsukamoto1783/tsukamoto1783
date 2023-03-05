@@ -45,4 +45,5 @@
 <p align="left"> 
   <a href="https://github.com/matttake/Habitual_Records"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=Habitual_Records" /></a>
   <a href="https://github.com/matttake/line_liff_sample"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=line_liff_sample" /></a>
+  <a href="https://github.com/matttake/rich_mune_sample"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=matttake&repo=rich_mune_sample" /></a>
 </p>
