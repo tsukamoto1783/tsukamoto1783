@@ -7,10 +7,6 @@
 
 
 ### Main 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&logoColor=white&style=flat">  
-  <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/-Embedded-2C2255.svg?logo=amazonec2&logoColor=white&style=flat"></a>  
-</p>
 <p align="left">
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&logoColor=00ffff&style=flat"></a>
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-119EFF.svg?logo=flutter&logoColor=00ffff&style=flat"></a>
@@ -20,6 +16,11 @@
 </p>  
 
 ### Sub 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&logoColor=white&style=flat">  
+  <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/-Embedded-2C2255.svg?logo=amazonec2&logoColor=white&style=flat"></a>  
+</p>
+
 <p align="left"> 
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&logoColor=119EFF&style=flat"></a>
   <a href="https://docs.pytest.org/en/7.1.x/contents.html"><img src="https://img.shields.io/badge/-Pytest-0A9EDC.svg?logo=pytest&logoColor=adff2f&style=flat"></a>
