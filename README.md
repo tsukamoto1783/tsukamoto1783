@@ -41,10 +41,10 @@
   <img alt="github stats" height="140px" src="https://github-readme-stats-gamma-three-69.vercel.app/api?username=tsukamoto1783&show_icons=true&theme=buefy"/>
 </p>
 
-## :small_blue_diamond:: Pinned  
+<!-- ## :small_blue_diamond:: Pinned  
 
 <p align="left"> 
   <a href="https://github.com/tsukamoto1783/Habitual_Records"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=tsukamoto1783&repo=Habitual_Records" /></a>
   <a href="https://github.com/tsukamoto1783/line_liff_sample"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=tsukamoto1783&repo=line_liff_sample" /></a>
   <a href="https://github.com/tsukamoto1783/rich_mune_sample"><img alt="github stats" height="120px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/pin/?username=tsukamoto1783&repo=rich_mune_sample" /></a>
-</p>
+</p> -->
