@@ -1,6 +1,6 @@
 # Yuto
 <p align="left"> 
-  <a href="https://twitter.com/tsukatsuka1783"><img src="https://img.shields.io/badge/-Twitter-white.svg?logo=twitter&logoColor=1DA1F2&style=flat"></a>  
+<!--   <a href="https://twitter.com/tsukatsuka1783"><img src="https://img.shields.io/badge/-Twitter-white.svg?logo=twitter&logoColor=1DA1F2&style=flat"></a>   -->
   <a href="https://zenn.dev/tsukatsuka1783"><img src="https://img.shields.io/badge/-Zenn-9cf.svg?logo=zenn&logoColor=00ffff&style=flat&url=https://simpleicons.org/?q=zenn"></a>
   <!--　<img src="https://img.shields.io/badge/-Wantedly-8a2be2.svg?logo=wearos&logoColor=00bfff&style=flat">　 -->  
 </p>
