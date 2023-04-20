@@ -37,8 +37,8 @@
 ## :small_blue_diamond:: Status  
 
 <p align="left"> 
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats-gamma-three-69.vercel.app/api/top-langs/?username=tsukamoto1783&layout=compact&theme=buefy=true&theme=onedark"/>
-  <img alt="github stats" height="140px" src="https://github-readme-stats-gamma-three-69.vercel.app/api?username=tsukamoto1783&show_icons=true&theme=buefy"/>
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats-tsukamoto1783.vercel.app/api/top-langs/?username=tsukamoto1783&layout=compact&theme=buefy=true&theme=onedark"/>
+  <img alt="github stats" height="140px" src="https://github-readme-stats-tsukamoto1783.vercel.app/api?username=tsukamoto1783&show_icons=true&theme=buefy"/>
 </p>
 
 <!-- ## :small_blue_diamond:: Pinned  
